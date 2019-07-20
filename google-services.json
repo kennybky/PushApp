@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746263185732",
+    "firebase_url": "https://pushapp-fefff.firebaseio.com",
+    "project_id": "pushapp-fefff",
+    "storage_bucket": "pushapp-fefff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746263185732:android:d7702b33d62de530",
+        "android_client_info": {
+          "package_name": "com.kennybky.pushapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746263185732-b0q2sj9uilnbh34cqurn9pc03lafqmo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZYEOkvL_71m0s9NmZBzxZu5q_kkMTJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746263185732-b0q2sj9uilnbh34cqurn9pc03lafqmo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
